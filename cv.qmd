@@ -3,7 +3,7 @@ title: ""
 ---
 
 #
-{{< pdf docs/cv/Sam_Hall-McMaster_CV.pdf width=40% height=60% image=imgs/Sam_Hall-McMaster_CV_page1.png border=1 image_width=40% image_border=1 >}}
+{{< pdf assets/files/cv/Sam_Hall-McMaster_CV.pdf width=40% height=60% image=imgs/Sam_Hall-McMaster_CV_page1.png border=1 image_width=40% image_border=1 >}}
 
 [Download](assets/files/cv/Sam_Hall-McMaster_CV.pdf)
 
