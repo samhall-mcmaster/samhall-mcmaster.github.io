@@ -10,21 +10,21 @@ title: ""
 - Radzikowska, M., Pike, A. C., & **Hall-McMaster, S.** Computational perspectives on behaviour in anorexia nervosa: A systematic review. [[preprint]](https://osf.io/preprints/psyarxiv/wq4cz)
 
 # Published Papers
-- **Hall-McMaster, S.**, Stokes, M.G., & Myers, N.E. (2022). Integrating reward information for prospective behaviour. *Journal of Neuroscience*, 42(9), 1804-1819. [[paper]](docs/publications/Hall-McMaster_etal_JNeuro_2022.pdf) [[data + code]](https://osf.io/vwd3k/)
+- **Hall-McMaster, S.**, Stokes, M.G., & Myers, N.E. (2022). Integrating reward information for prospective behaviour. *Journal of Neuroscience*, 42(9), 1804-1819. [[paper]](assets/files/publications/Hall-McMaster_etal_JNeuro_2022.pdf) [[data + code]](https://osf.io/vwd3k/)
 
-- Pike, A. C., Atherton, K. E., Bauer, Y., Crittenden, B. M., van Ede, F., **Hall-McMaster, S.**, ... & Noonan, M. P. (2022). 10 simple rules for a supportive lab environment. *Journal of Cognitive Neuroscience*, 35(1), 44-48. [[paper]](docs/publications/Pike_etal_JCogNeuro_2022.pdf)
+- Pike, A. C., Atherton, K. E., Bauer, Y., Crittenden, B. M., van Ede, F., **Hall-McMaster, S.**, ... & Noonan, M. P. (2022). 10 simple rules for a supportive lab environment. *Journal of Cognitive Neuroscience*, 35(1), 44-48. [[paper]](assets/files/publications/Pike_etal_JCogNeuro_2022.pdf)
 
-- **Hall-McMaster, S.**, Dayan, P., & Schuck N.W. (2021). Control over patch encounters changes foraging behaviour. *iScience, 24(9)*, 1-10. [[paper]](docs/publications/Hall-McMaster_etal_iScience_2021.pdf) [[data + code]](https://osf.io/c4trj/)
+- **Hall-McMaster, S.**, Dayan, P., & Schuck N.W. (2021). Control over patch encounters changes foraging behaviour. *iScience, 24(9)*, 1-10. [[paper]](assets/files/publications/Hall-McMaster_etal_iScience_2021.pdf) [[data + code]](https://osf.io/c4trj/)
 
-- Wittkuhn, L., Chien, S., **Hall-McMaster, S.**, & Schuck, N.W. (2021). Replay in minds and machines. *Neuroscience & Biobehavioral Reviews*, 129, 367-388. [[paper]](docs/publications/Wittkuhn_etal_NBBR_2021.pdf)
+- Wittkuhn, L., Chien, S., **Hall-McMaster, S.**, & Schuck, N.W. (2021). Replay in minds and machines. *Neuroscience & Biobehavioral Reviews*, 129, 367-388. [[paper]](assets/files/publications/Wittkuhn_etal_NBBR_2021.pdf)
 
-- **Hall-McMaster, S.**, Muhle-Karbe, P.S., \*Myers, N.E., & \*Stokes, M.G. (2019). Reward boosts neural coding of task rules to optimise cognitive flexibility. *Journal of Neuroscience*, 39(43), 8549-8561. \*equal contribution. [[paper]](docs/publications/Hall-McMaster_etal_JNeuro_2019.pdf) [[data + code]](https://osf.io/kuzye/)
+- **Hall-McMaster, S.**, Muhle-Karbe, P.S., \*Myers, N.E., & \*Stokes, M.G. (2019). Reward boosts neural coding of task rules to optimise cognitive flexibility. *Journal of Neuroscience*, 39(43), 8549-8561. \*equal contribution. [[paper]](assets/files/publications/Hall-McMaster_etal_JNeuro_2019.pdf) [[data + code]](https://osf.io/kuzye/)
 
-- **Hall-McMaster, S.**, & Luyckx, F. (2019). Revisiting foraging approaches in neuroscience. *Cognitive, Affective, & Behavioral Neuroscience*, 19(2), 225-230. [[paper]](docs/publications/Hall-McMaster_Luyckx_CABN_2019.pdf)
+- **Hall-McMaster, S.**, & Luyckx, F. (2019). Revisiting foraging approaches in neuroscience. *Cognitive, Affective, & Behavioral Neuroscience*, 19(2), 225-230. [[paper]](assets/files/publications/Hall-McMaster_Luyckx_CABN_2019.pdf)
 
-- **Hall-McMaster, S.**, Millar, J., Ruan, M., & Ward, R. D. (2017). Medial orbitofrontal cortex modulates associative learning between environmental cues and reward probability. *Behavioral Neuroscience*, 131(1), 1-10. [[paper]](docs/publications/Hall-McMaster_etal_BNeuro_2017.pdf) [[supplement](docs/publications/Hall-McMaster_etal_BNeuro_2017_SI.docx)]
+- **Hall-McMaster, S.**, Millar, J., Ruan, M., & Ward, R. D. (2017). Medial orbitofrontal cortex modulates associative learning between environmental cues and reward probability. *Behavioral Neuroscience*, 131(1), 1-10. [[paper]](assets/files/publications/Hall-McMaster_etal_BNeuro_2017.pdf) [[supplement](assets/files/publications/Hall-McMaster_etal_BNeuro_2017_SI.docx)]
 
-- **Hall-McMaster, S. M.**, Treharne, G. J., & Smith, C. M. (2016). Positive thinking and physical activity motivation: A qualitative case study. *New Zealand Journal of Physiotherapy*, 44(1), 26-32. [[paper]](docs/publications/Hall-McMaster_etal_NZJP_2016.pdf)
+- **Hall-McMaster, S. M.**, Treharne, G. J., & Smith, C. M. (2016). Positive thinking and physical activity motivation: A qualitative case study. *New Zealand Journal of Physiotherapy*, 44(1), 26-32. [[paper]](assets/files/publications/Hall-McMaster_etal_NZJP_2016.pdf)
 
-- **Hall-McMaster, S. M.**, Treharne, G. J., & Smith, C. M (2016). “The positive feel’: Unpacking the role of positive thinking in people with multiple sclerosis’s thinking aloud about staying physically active. *Journal of Health Psychology*, 21(12), 3026-3036. [[paper]](docs/publications/Hall-McMaster_etal_JHP_2016.pdf)
+- **Hall-McMaster, S. M.**, Treharne, G. J., & Smith, C. M (2016). “The positive feel’: Unpacking the role of positive thinking in people with multiple sclerosis’s thinking aloud about staying physically active. *Journal of Health Psychology*, 21(12), 3026-3036. [[paper]](assets/files/publications/Hall-McMaster_etal_JHP_2016.pdf)
 

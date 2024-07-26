@@ -1,7 +1,8 @@
 project:
   type: website
+  output-dir: docs
   resources:
-    - docs/cv/Sam_Hall-McMaster_CV.pdf
+    - assets/files/cv/Sam_Hall-McMaster_CV.pdf
 
 website:
   title: ""

@@ -4,7 +4,7 @@ title: ""
 
 # Dr. Sam Hall-McMaster
 
-![](imgs/headshot_brick.png){width=40% fig-align="Center"}
+![](assets/imgs/headshot_brick.png){width=40% fig-align="Center"}
 
 I am a neuroscientist at Harvard University. I use human brain measurements and computational tools to make discoveries about motivation, decision-making and eating disorders. 
 
