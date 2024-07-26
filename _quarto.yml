@@ -1,0 +1,27 @@
+project:
+  type: website
+  resources:
+    - docs/cv/Sam_Hall-McMaster_CV.pdf
+
+website:
+  title: ""
+  search: false
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: CV
+      - href: publications_pdf.qmd
+        text: Publications
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+
+
