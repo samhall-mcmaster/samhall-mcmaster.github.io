@@ -2,10 +2,10 @@
 title: ""
 ---
 
-# Dr. Sam Hall-McMaster
+<h1 align="center">Sam Hall-McMaster, PhD</h1>
 
-![](assets/imgs/headshot_brick.png){width=40% fig-align="Center"}
+![](assets/imgs/headshot_brick_circle.png){width=40% fig-align="center"} 
 
-I am a neuroscientist at Harvard University. I use human brain measurements and computational tools to make discoveries about motivation, decision-making and eating disorders. 
-
-I completed a PhD at the University of Oxford and a BSc back home in Aotearoa.
+<p align="center">
+I am a neuroscientist at Harvard University. I investigate the neural coding schemes and computational algorithms that the brain uses to generate intelligent behaviour. Originally from Aotearoa New Zealand, I completed my PhD at the University of Oxford, focusing on interactions between motivation, neural coding, and cognitive control.
+</p>
