@@ -4,7 +4,7 @@ title: ""
 
 <h1 align="center">Sam Hall-McMaster, PhD</h1>
 
-![](assets/imgs/headshot_orange_circle_loose.png){width=40% fig-align="center"} 
+![](assets/imgs/headshot_green_circle_loose.png){width=40% fig-align="center"} 
 
 <p align="center">
 Human intelligence is flexible, but where does this flexibility come from? My research investigates the neural coding schemes and computational algorithms that generate adaptive behaviour. Originally from Aotearoa New Zealand, I completed my PhD at the University of Oxford and am now based at Harvard University.
