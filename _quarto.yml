@@ -9,7 +9,7 @@ website:
   search: false
   navbar:
     left:
-      - href: index.qmd
+      - href: home.qmd
         text: Home
       - href: cv.qmd
         text: CV
