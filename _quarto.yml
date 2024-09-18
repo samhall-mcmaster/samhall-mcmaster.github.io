@@ -24,5 +24,4 @@ format:
     css: styles.css
     toc: false
 
-
-
+home: home.qmd
