@@ -9,11 +9,11 @@ website:
   search: false
   navbar:
     left:
-      - href: home.qmd
+      - href: index.qmd
         text: Home
       - href: cv.qmd
         text: CV
-      - href: publications.qmd
+      - href: publications_pdf.qmd
         text: Publications
       - href: contact.qmd
         text: Contact
@@ -23,5 +23,3 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
-
-home: home.qmd
