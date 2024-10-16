@@ -9,6 +9,8 @@ title: "Sam Hall-McMaster"
 
 - Radzikowska, M., Pike, A. C., & **Hall-McMaster, S.** Computational perspectives on behaviour in anorexia nervosa: A systematic review. [[preprint]](https://osf.io/preprints/psyarxiv/wq4cz)
 
+- **\*Hall-McMaster, S.**, & \*Zika, O. Increasing response vigour under time pressure as a transdiagnostic marker of eating disorders. *equal contribution. [[preprint]](https://osf.io/preprints/psyarxiv/kzwda?view_only=)
+
 # Published Papers
 - **Hall-McMaster, S.**, Stokes, M.G., & Myers, N.E. (2022). Integrating reward information for prospective behaviour. *Journal of Neuroscience*, 42(9), 1804-1819. [[paper]](assets/files/publications/Hall-McMaster_etal_JNeuro_2022.pdf) [[data + code]](https://osf.io/vwd3k/)
 
