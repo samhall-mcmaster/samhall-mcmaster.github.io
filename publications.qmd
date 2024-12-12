@@ -10,7 +10,7 @@ title: "Sam Hall-McMaster"
 - **\*Hall-McMaster, S.**, & \*Zika, O. Increasing response vigour under time pressure as a transdiagnostic marker of eating disorders. *equal contribution. [[preprint]](https://osf.io/preprints/psyarxiv/kzwda?view_only=)
 
 # Published Papers
-- Hedrich, N.L., Schulz, E., **\*Hall-McMaster, S.**, & \*Schuck, N.W. (accepted). An inductive bias for slowly changing features in human reinforcement learning. *PLOS Computational Biology*. \*equal contribution. [[preprint]](https://www.biorxiv.org/content/10.1101/2024.01.24.576910v1)
+- Hedrich, N.L., Schulz, E., **\*Hall-McMaster, S.**, & \*Schuck, N.W. (2024). An inductive bias for slowly changing features in human reinforcement learning. *PLOS Computational Biology*. \*equal contribution. [[paper]](assets/files/publications/Hedrich_etal_PCB_2024.pdf) [[data + code]](https://github.com/noahedrich/slow_prior/tree/main)
 
 - **Hall-McMaster, S.**, Stokes, M.G., & Myers, N.E. (2022). Integrating reward information for prospective behaviour. *Journal of Neuroscience*, 42(9), 1804-1819. [[paper]](assets/files/publications/Hall-McMaster_etal_JNeuro_2022.pdf) [[data + code]](https://osf.io/vwd3k/)
 
