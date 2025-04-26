@@ -3,16 +3,16 @@ title: "Sam Hall-McMaster"
 ---
 
 # Preprints
-- Chau, J.M. Ison, M.J., Muhle-Karbe, P.S., Stokes, M.G., **\*Hall-McMaster, S.**, & \*Myers, N.E. Alpha and beta oscillations mediate the effect of motivation on neural coding of cognitive flexibility. \*equal contribution. [[preprint]](https://www.biorxiv.org/content/10.1101/2025.03.11.642697v1)
+- Chau, J.M. Ison, M.J., Muhle-Karbe, P.S., Stokes, M.G., \*Myers, N.E., & \***Hall-McMaster, S.** Alpha and beta oscillations mediate the effect of motivation on neural coding of cognitive flexibility. \*joint senior author. [[preprint]](https://www.biorxiv.org/content/10.1101/2025.03.11.642697v1)
 
 - **\*Hall-McMaster, S.**, & \*Zika, O. Increasing response vigour under time pressure as a transdiagnostic marker of eating disorders. *equal contribution. [[preprint]](https://osf.io/preprints/psyarxiv/kzwda?view_only=)
 
 # Published Papers
-- **Hall-McMaster, S.**, Tomov, M., \*Gershman, S.J, & \*Schuck, N.W. (in press) Neural evidence humans reuse strategies to solve new tasks. *PLOS Biology*. \*equal contribution. [[preprint]](https://www.biorxiv.org/content/10.1101/2024.06.10.598294v5) [[data + code]](https://gin.g-node.org/sam.hall-mcmaster)
+- **Hall-McMaster, S.**, Tomov, M., \*Gershman, S.J, & \*Schuck, N.W. (in press). Neural evidence that humans reuse strategies to solve new tasks. *PLOS Biology*. \*equal contribution. [[paper]](assets/files/publications/Hall-McMaster_etal_PB_2025.pdf) [[data + code]](https://gin.g-node.org/sam.hall-mcmaster)
 
-- Radzikowska, M., Pike, A.C., & **Hall-McMaster, S.** (2025) Computational perspectives on cognition in anorexia nervosa: A systematic review. *Computational Psychiatry*. [[paper]](assets/files/publications/Radzikowska_etal_CP_2025.pdf) 
+- Radzikowska, M., Pike, A.C., & **Hall-McMaster, S.** (2025). Computational perspectives on cognition in anorexia nervosa: A systematic review. *Computational Psychiatry*, 9(1), 100-121. [[paper]](assets/files/publications/Radzikowska_etal_CP_2025.pdf) 
 
-- Hedrich, N.L., Schulz, E., \*Schuck, N.W., & \***Hall-McMaster, S.** (2024). An inductive bias for slowly changing features in human reinforcement learning. *PLOS Computational Biology*. \*equal contribution. [[paper]](assets/files/publications/Hedrich_etal_PCB_2024.pdf) [[data + code]](https://github.com/noahedrich/slow_prior/tree/main)
+- Hedrich, N.L., Schulz, E., \*Schuck, N.W., & \***Hall-McMaster, S.** (2024). An inductive bias for slowly changing features in human reinforcement learning. *PLOS Computational Biology*, 20(11), 1-30. \*joint senior author. [[paper]](assets/files/publications/Hedrich_etal_PCB_2024.pdf) [[data + code]](https://github.com/noahedrich/slow_prior/tree/main)
 
 - **Hall-McMaster, S.**, Stokes, M.G., & Myers, N.E. (2022). Integrating reward information for prospective behaviour. *Journal of Neuroscience*, 42(9), 1804-1819. [[paper]](assets/files/publications/Hall-McMaster_etal_JNeuro_2022.pdf) [[data + code]](https://osf.io/vwd3k/)
 
