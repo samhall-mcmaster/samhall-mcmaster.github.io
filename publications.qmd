@@ -8,7 +8,7 @@ title: "Sam Hall-McMaster"
 - **\*Hall-McMaster, S.**, & \*Zika, O. Increasing response vigour under time pressure as a transdiagnostic marker of eating disorders. *equal contribution. [[preprint]](https://osf.io/preprints/psyarxiv/kzwda?view_only=)
 
 # Published Papers
-- **Hall-McMaster, S.**, Tomov, M., \*Gershman, S.J, & \*Schuck, N.W. (in press). Neural evidence that humans reuse strategies to solve new tasks. *PLOS Biology*. \*joint senior authors. [[paper]](assets/files/publications/Hall-McMaster_etal_PB_2025) [[supplement]](assets/files/publications/Hall-McMaster_etal_PB_2025_SI.docx) [[data + code]](https://gin.g-node.org/sam.hall-mcmaster)
+- **Hall-McMaster, S.**, Tomov, M., \*Gershman, S.J, & \*Schuck, N.W. (in press). Neural evidence that humans reuse strategies to solve new tasks. *PLOS Biology*. \*joint senior authors. [[paper]](assets/files/publications/Hall-McMaster_etal_PB_2025.pdf) [[supplement]](assets/files/publications/Hall-McMaster_etal_PB_2025_SI.docx) [[data + code]](https://gin.g-node.org/sam.hall-mcmaster)
 
 - Radzikowska, M., Pike, A.C., & **Hall-McMaster, S.** (2025). Computational perspectives on cognition in anorexia nervosa: A systematic review. *Computational Psychiatry*, 9(1), 100-121. [[paper]](assets/files/publications/Radzikowska_etal_CP_2025.pdf) 
 
