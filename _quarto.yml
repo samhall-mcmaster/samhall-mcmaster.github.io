@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - assets/files/cv/Sam_Hall-McMaster_CV.pdf
+    - CNAME
 
 website:
   title: ""
