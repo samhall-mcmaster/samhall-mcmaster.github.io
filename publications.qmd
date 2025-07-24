@@ -8,7 +8,7 @@ title: "Sam Hall-McMaster"
 - **\*Hall-McMaster, S.**, & \*Zika, O. Increasing response vigour under time pressure as a transdiagnostic marker of eating disorders. *equal contribution. [[preprint]](https://osf.io/preprints/psyarxiv/kzwda?view_only=)
 
 # Published Papers
-- Chau, J.M. Ison, M.J., Muhle-Karbe, P.S., Stokes, M.G., \*Myers, N.E., & \***Hall-McMaster, S.** (in press). Alpha and beta oscillations mediate the effect of motivation on neural coding of cognitive flexibility. *Biological Psychology*. \*joint senior authors. [[preprint]](https://www.biorxiv.org/content/10.1101/2025.03.11.642697v1)
+- Chau, J.M. Ison, M.J., Muhle-Karbe, P.S., Stokes, M.G., \*Myers, N.E., & \***Hall-McMaster, S.** (in press). Alpha and beta oscillations mediate the effect of motivation on neural coding of cognitive flexibility. *Biological Psychology*. \*joint senior authors. [[paper]](assets/files/publications/Delgado_etal_BP_2025.pdf)
 
 - **Hall-McMaster, S.**, Tomov, M., \*Gershman, S.J, & \*Schuck, N.W. (2025). Neural evidence that humans reuse strategies to solve new tasks. *PLOS Biology*. \*joint senior authors. [[paper]](assets/files/publications/Hall-McMaster_etal_PB_2025.pdf) [[supplement]](assets/files/publications/Hall-McMaster_etal_PB_2025_SI.docx) [[data + code]](https://gin.g-node.org/sam.hall-mcmaster)
 
