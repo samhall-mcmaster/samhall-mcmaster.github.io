@@ -6,7 +6,7 @@ title: "Sam Hall-McMaster"
 - Carvalho, W., **Hall-McMaster, S.**, Lee, H., Gershman, S.J. Preemptive solving of future problems: Multitask preplay in humans and machines [[preprint]](https://arxiv.org/abs/2507.05561)
 
 # Published Papers
-- **\*Hall-McMaster, S.**, & \*Zika, O. (in press) Increasing response vigour under time pressure as a transdiagnostic marker of eating disorders. *Computational Psychiatry*. *equal contribution. [[preprint]](https://osf.io/preprints/psyarxiv/kzwda?view_only=)
+- **\*Hall-McMaster, S.**, & \*Zika, O. (in press) Increasing response vigour under time pressure as a transdiagnostic marker of eating disorders. *Computational Psychiatry*. *equal contribution. [[preprint]](https://osf.io/preprints/psyarxiv/kzwda?view_only=) [[data + code]](https://github.com/ozika/ed-foraging-hall-mcmaster-and-zika)
 
 - Chau, J.M. Ison, M.J., Muhle-Karbe, P.S., Stokes, M.G., \*Myers, N.E., & \***Hall-McMaster, S.** (2025). Alpha and beta oscillations mediate the effect of motivation on neural coding of cognitive flexibility. *Biological Psychology*, 200, 109085. \*joint senior authors. [[paper]](assets/files/publications/Delgado_etal_BP_2025.pdf) [[data + code]](https://github.com/JuanMChau/AlphaBetaOscillations)
 
