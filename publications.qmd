@@ -3,7 +3,7 @@ title: "Sam Hall-McMaster"
 ---
 
 # Preprints
-- **Hall-McMaster, S.**, Wittkuhn, W., Verra, L., Hedrich, H.L., Irie, K., Dayan, P., \*Gershman, S.J., & \*Schuck, N.W. Entorhinal cortex signals dimensions of past experience that can be generalised in a novel environment. \*joint senior authors.
+- **Hall-McMaster, S.**, Wittkuhn, W., Verra, L., Hedrich, H.L., Irie, K., Dayan, P., \*Gershman, S.J., & \*Schuck, N.W. Entorhinal cortex signals dimensions of past experience that can be generalised in a novel environment. \*joint senior authors. [[preprint]](https://www.biorxiv.org/content/10.1101/2025.08.01.668096v1)
 
 - Carvalho, W., **Hall-McMaster, S.**, Lee, H., Gershman, S.J. Preemptive solving of future problems: Multitask preplay in humans and machines. [[preprint]](https://arxiv.org/abs/2507.05561)
 
