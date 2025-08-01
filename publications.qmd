@@ -3,14 +3,16 @@ title: "Sam Hall-McMaster"
 ---
 
 # Preprints
-- Carvalho, W., **Hall-McMaster, S.**, Lee, H., Gershman, S.J. Preemptive solving of future problems: Multitask preplay in humans and machines [[preprint]](https://arxiv.org/abs/2507.05561)
+- **Hall-McMaster, S.**, Wittkuhn, W., Verra, L., Hedrich, H.L., Irie, K., Dayan, P., \*Gershman, S.J., & \*Schuck, N.W. Entorhinal cortex signals dimensions of past experience that can be generalised in a novel environment. \*joint senior authors.
+
+- Carvalho, W., **Hall-McMaster, S.**, Lee, H., Gershman, S.J. Preemptive solving of future problems: Multitask preplay in humans and machines. [[preprint]](https://arxiv.org/abs/2507.05561)
 
 # Published Papers
 - \***Hall-McMaster, S.**, & \*Zika, O. (in press) Increasing response vigour under time pressure as a transdiagnostic marker of eating disorders. *Computational Psychiatry*. *equal contribution. [[preprint]](https://osf.io/preprints/psyarxiv/kzwda?view_only=) [[data + code]](https://github.com/ozika/ed-foraging-hall-mcmaster-and-zika)
 
 - Chau, J.M. Ison, M.J., Muhle-Karbe, P.S., Stokes, M.G., \*Myers, N.E., & \***Hall-McMaster, S.** (2025). Alpha and beta oscillations mediate the effect of motivation on neural coding of cognitive flexibility. *Biological Psychology*, 200, 109085. \*joint senior authors. [[paper]](assets/files/publications/Delgado_etal_BP_2025.pdf) [[data + code]](https://github.com/JuanMChau/AlphaBetaOscillations)
 
-- **Hall-McMaster, S.**, Tomov, M., \*Gershman, S.J, & \*Schuck, N.W. (2025). Neural evidence that humans reuse strategies to solve new tasks. *PLOS Biology*, 23(6), e3003174. \*joint senior authors. [[paper]](assets/files/publications/Hall-McMaster_etal_PB_2025.pdf) [[supplement]](assets/files/publications/Hall-McMaster_etal_PB_2025_SI.docx) [[data + code]](https://gin.g-node.org/sam.hall-mcmaster)
+- **Hall-McMaster, S.**, Tomov, M., \*Gershman, S.J., & \*Schuck, N.W. (2025). Neural evidence that humans reuse strategies to solve new tasks. *PLOS Biology*, 23(6), e3003174. \*joint senior authors. [[paper]](assets/files/publications/Hall-McMaster_etal_PB_2025.pdf) [[supplement]](assets/files/publications/Hall-McMaster_etal_PB_2025_SI.docx) [[data + code]](https://gin.g-node.org/sam.hall-mcmaster)
 
 - Radzikowska, M., Pike, A.C., & **Hall-McMaster, S.** (2025). Computational perspectives on cognition in anorexia nervosa: A systematic review. *Computational Psychiatry*, 9(1), 100-121. [[paper]](assets/files/publications/Radzikowska_etal_CP_2025.pdf) 
 
