@@ -3,7 +3,7 @@ title: "Sam Hall-McMaster"
 ---
 
 # Preprints
-- Musial, M.P.M., **Hall-McMaster, S.**, Shimomura, K., Kato, A., Bode, E.L., Grundmann, C., Ebrahimi, C., Morita, K., Gershman, S.J., Endrass, T., & Schlagenhauf, F. The successor representation in high-risk drinking and alcohol-related contexts. [[preprint]](https://osf.io/preprints/psyarxiv/rmdqk_v1)
+- Musial, M.P.M., **Hall-McMaster, S.**, Shimomura, K., Kato, A., Bode, E.L., Grundmann, C., Ebrahimi, C., Morita, K., Gershman, S.J., Endrass, T., & Schlagenhauf, F. The successor representation in high-risk drinking and alcohol-related contexts. [[preprint]](assets/files/publications/Musial_etal_preprint.pdf) <!-- (https://osf.io/preprints/psyarxiv/rmdqk_v1) -->
 
 - **Hall-McMaster, S.**, Wittkuhn, W., Verra, L., Hedrich, H.L., Irie, K., Dayan, P., \*Gershman, S.J., & \*Schuck, N.W. Entorhinal cortex signals dimensions of past experience that can be generalised in a novel environment. \*joint senior authors. [[preprint]](https://www.biorxiv.org/content/10.1101/2025.08.01.668096v1)
 
