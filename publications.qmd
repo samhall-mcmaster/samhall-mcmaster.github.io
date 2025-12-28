@@ -5,11 +5,11 @@ title: "Sam Hall-McMaster"
 # Preprints
 - Musial, M.P.M., **Hall-McMaster, S.**, Shimomura, K., Kato, A., Bode, E.L., Grundmann, C., Ebrahimi, C., Morita, K., Gershman, S.J., Endrass, T., & Schlagenhauf, F. The successor representation in high-risk drinking and alcohol-related contexts. [[preprint]](https://osf.io/preprints/psyarxiv/rmdqk_v1)
 
-- **Hall-McMaster, S.**, Wittkuhn, W., Verra, L., Hedrich, H.L., Irie, K., Dayan, P., \*Gershman, S.J., & \*Schuck, N.W. Entorhinal cortex signals dimensions of past experience that can be generalised in a novel environment. \*joint senior authors. [[preprint]](https://www.biorxiv.org/content/10.1101/2025.08.01.668096v1)
-
 - Carvalho, W., **Hall-McMaster, S.**, Lee, H., Gershman, S.J. Preemptive solving of future problems: Multitask preplay in humans and machines. [[preprint]](https://arxiv.org/abs/2507.05561)
 
 # Published Papers
+- **Hall-McMaster, S.**, Wittkuhn, W., Verra, L., Hedrich, H.L., Irie, K., Dayan, P., \*Gershman, S.J., & \*Schuck, N.W. (in press). Entorhinal cortex signals dimensions of past experience that can be generalised in a novel environment. *Journal of Neuroscience*. \*joint senior authors. [[preprint]](https://www.biorxiv.org/content/10.1101/2025.08.01.668096v1)
+
 - \***Hall-McMaster, S.**, & \*Zika, O. (2025) Increasing response vigour under time pressure as a transdiagnostic marker of eating disorders. *Computational Psychiatry*, 9(1), 124-141. *equal contribution. [[paper]](assets/files/publications/Hall-McMaster_Zika_CP_2025.pdf) [[supplement]](assets/files/publications/Hall-McMaster_Zika_CP_2025_SI.pdf) [[data + code]](https://github.com/ozika/ed-foraging-hall-mcmaster-and-zika)
 
 - Chau, J.M. Ison, M.J., Muhle-Karbe, P.S., Stokes, M.G., \***Hall-McMaster, S.**, & \*Myers, N.E. (2025). Alpha and beta oscillations mediate the effect of motivation on neural coding of cognitive flexibility. *Biological Psychology*, 200, 109085. \*joint senior authors. [[paper]](assets/files/publications/Delgado_etal_BP_2025.pdf) [[data + code]](https://github.com/JuanMChau/AlphaBetaOscillations)
