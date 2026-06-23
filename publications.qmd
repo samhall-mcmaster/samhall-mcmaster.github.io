@@ -8,7 +8,7 @@ title: "Sam Hall-McMaster"
 - Carvalho, W., **Hall-McMaster, S.**, Lee, H., Gershman, S.J. Preemptive solving of future problems: Multitask preplay in humans and machines. [[preprint]](https://arxiv.org/abs/2507.05561)
 
 # Published Papers
-- **Hall-McMaster, S.**, Wittkuhn, W., Verra, L., Hedrich, H.L., Irie, K., Dayan, P., \*Gershman, S.J., & \*Schuck, N.W. (in press). Entorhinal cortex signals dimensions of past experience that can be generalised in a novel environment. *Journal of Neuroscience*. \*joint senior authors. [[preprint]](https://www.biorxiv.org/content/10.1101/2025.08.01.668096v1)
+- **Hall-McMaster, S.**, Wittkuhn, W., Verra, L., Hedrich, H.L., Irie, K., Dayan, P., \*Gershman, S.J., & \*Schuck, N.W. (2026). Entorhinal cortex signals dimensions of past experience that can be generalised in a novel environment. *Journal of Neuroscience*, 46(7), e1492252025. \*joint senior authors. [[paper](assets/files/publications/Hall-McMaster_etal_JNeuro_2026.pdf)] [[supplement]](assets/files/publications/Hall-McMaster_etal_JNeuro_2026_SI.pdf) [[data + code]](https://gin.g-node.org/sam.hall-mcmaster)
 
 - \***Hall-McMaster, S.**, & \*Zika, O. (2025) Increasing response vigour under time pressure as a transdiagnostic marker of eating disorders. *Computational Psychiatry*, 9(1), 124-141. *equal contribution. [[paper]](assets/files/publications/Hall-McMaster_Zika_CP_2025.pdf) [[supplement]](assets/files/publications/Hall-McMaster_Zika_CP_2025_SI.pdf) [[data + code]](https://github.com/ozika/ed-foraging-hall-mcmaster-and-zika)
 
